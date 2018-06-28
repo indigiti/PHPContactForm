@@ -27,7 +27,7 @@ html {
 }
 .formTB{
 	font-family: 'Tajawal', sans-serif;
-	width: 32%;
+	width: 24%;
 	height: 40px;
 	font-size: 0.9em;
     padding: 12px 20px;
@@ -39,7 +39,7 @@ html {
 
 .formTA{
 	font-family: 'Tajawal', sans-serif;
-	width: 64.5%;
+	width: 48.5%;
 	font-size: 0.9em;
     padding: 20px 20px 12px 20px;
     margin: 8px 0;
